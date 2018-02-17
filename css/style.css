@@ -1,6 +1,9 @@
 body {
+	margin: 0;
+	padding: 0;
+	height: 100vw;
   /* Let the user scroll */
-  height: 2000px;
+  /*height: 2000px;*/
   /* Frontmost scene and background should have the same color */
   background: black;
 }
